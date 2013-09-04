@@ -14,10 +14,10 @@ challenges are a bit easier, and doubly so since most contestants had access
 to more tools that reverse engineers are familiar with, like
 OllyDBG and WinDBG, in addition to IDA.
 
-The eight challenges were written in C using Microsoft Visual Studio, and were
-intended to become more difficult each bracket. The "Answers" file contains the 
-hints that could have been provided to the contestants during the course of the 
-competition. Additionally, it contains the solutions to the challenges that
+The eight challenges were written in C with some inline asm using Microsoft Visual
+Studio, and were intended to become more difficult each bracket. The "Answers" file 
+contains the hints that could have been provided to the contestants during the course 
+of the competition. Additionally, it contains the solutions to the challenges that
 the contestants would have had to submit to indicate successful completion of 
 the challenges. For best results, don't peek at the answers until you've had
 a go at cracking the binaries :)
