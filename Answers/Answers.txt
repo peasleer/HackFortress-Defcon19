@@ -1,0 +1,57 @@
+r1-1:
+
+   Little hint: It isn't complicated, look for referenced strings.
+   Big hint: The answer ends with "harder", jesus!
+
+  Answer: it gets harder
+
+r1-2:
+
+   Little hint: It has to be one of those strings!
+   Big hint: Which string is being strcmp'd?
+
+   Answer: monkey
+
+r2-1:
+
+   Little hint: Follow the flow, man.
+   Big hint: The second parameter is an integer, two others are strings.
+
+   Answer: learn 2 burn
+
+r2-2:
+   
+   Little hint: A key could unlock the answer
+   Big hint: HackFortress is the key!
+
+   Answer: You had to create a key to get a key
+
+r3-1:
+    
+    Little hint: File that piece of knowledge under "obvious"
+    Big hint: What that file contains is just as important as its existence
+
+    Answer: she is my very favorite gun
+
+r3-2:
+
+   Little hint: ret is really just "pop/jmp" 
+   Big hint: OllyDBG is going to be frustrating here, might want to try
+      something else :)
+
+   Answer: today you learned opaque predicates
+
+r4-1:
+   
+   Little hint: What does DR7 do?
+   Big hint: DR7 is the debug control register.
+
+   Answer: engingeers strongly prefer hardware breakpoints
+
+r4-2:
+
+   Little hint: Some events are truly exceptional.
+   Big hint: Check out the Structured Event Handler.
+
+   Answer: 
+
