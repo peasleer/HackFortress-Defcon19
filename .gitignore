@@ -15,6 +15,7 @@
 # MSVS junk
 *.obj
 *.tlog
+*.log
 *.lastbuildsate
 *.idb
 *.pdb
